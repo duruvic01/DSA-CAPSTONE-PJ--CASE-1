@@ -31,6 +31,6 @@ Consider reevaluating underperforming categories like Media Streaming Devices.
 -	**Leverage High-Revenue Categories**:
 A more strategical approach is advised in Mobile & Accessories, given their massive revenue potential.
 ### Appendix :
-Here is the excel file containing tables, pivot tables, charts and dashboards used in this analysis
+Here is the [excel file](https://github.com/duruvic01/DSA-DATA-ANALYSIS-CAPSTONE-PROJECT-01/blob/main/Amazon%20case%20study.xlsx) containing tables, pivot tables, charts and dashboards used in this analysis
 ### Conclusion:
 This project has served as an eye opener for me in the application of MS Excel in real-world data. It has provided insights into Amazon’s Product Review performance & how it can guide in knowing specific products that if given more attention will lead to more growth & optimization. 
