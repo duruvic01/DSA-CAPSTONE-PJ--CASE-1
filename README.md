@@ -1,4 +1,4 @@
-# DSA-CAPSTONE-PROJECT-CASE-1
+# DSA-DATA-ANALYSIS-CAPSTONE-PROJECT-01
 ## PROJECT TOPIC: Amazon Product Review Analysis
 ## Project Overview: 
 To analyze product sales data from Amazons review operations in order to identify trends, insights and patterns that can inform decision-making. The goal is to utilize my newly gotten skills in Microsoft Excel such as data cleaning, summarization, pivot tables, charts and dashboards, to make this possible. 
