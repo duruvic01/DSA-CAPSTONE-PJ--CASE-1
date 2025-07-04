@@ -7,7 +7,8 @@ The dataset used, titled  *Amazon case study.xlsx* was provided by DSA & the Inc
 ### Tools & Features Used:
 #### Tool: Microsoft Excel  [Download Here](https://www.microsoft.com/en-us/microsoft-365/excel?ocid=ORSEARCH_Bing&msockid=1d9ec785832e634d3841d23c828262a5)
 #### Features used ;
--	Excel Formulas: Used PRODUCT, IF functions for data manipulation(e.g., =IF
+-	Excel Formulas: Used PRODUCT, IF functions for data manipulation e.g
+  ``` =IF(H19<200,"₹200",IF(OR(H19=200,H19=500),"₹200-₹500",">₹500")) ```
 -	Pivot Tables: Used to summarized
   o	 Average discount by category
   o	  No of Products  per category
@@ -19,7 +20,7 @@ The dataset used, titled  *Amazon case study.xlsx* was provided by DSA & the Inc
 -	**Low Product by Rating*Reviews**: Media Streaming Devices contributed only *1008* rating*review score
 -	**Top Product by Average Rating**: Tablets had the highest average rating of *4.6*
 -	**Category with Top Potential Revenue**: Mobiles & Accessories Category has a potential to return *₹41,809,827,597*
--	** Category with Low Potential Revenue**: Arts & Crafts Category has the least potential to return *₹2,380,050*
+-	**Category with Low Potential Revenue**: Arts & Crafts Category has the least potential to return *₹2,380,050*
 -	**Products per Price Range**: About *1189* Products were up at a price of   *>₹500*
 ### Recommendations :
 On the basis of this analysis, the following recommendations  are made:
